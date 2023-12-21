@@ -36,3 +36,14 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+
+
+
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCdGDVoxhpzZEeZoIFxA45SaIPJ35NQQC+5to8V+H3U7QAAAJBWr7F3Vq+x
+dwAAAAtzc2gtZWQyNTUxOQAAACCdGDVoxhpzZEeZoIFxA45SaIPJ35NQQC+5to8V+H3U7Q
+AAAEBol1nvaFk+EqC/xRsq6SaNwqTRtsoemPfe+TrG6q73L50YNWjGGnNkR5mggXEDjlJo
+g8nfk1BAL7m2jxX4fdTtAAAACGdpdC1hY2VyAQIDBAU=
+-----END OPENSSH PRIVATE KEY-----
